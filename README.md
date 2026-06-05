@@ -87,24 +87,6 @@ AI can help CoreTech Innovation in multiple powerful ways:
 By embracing AI Engineering, CoreTech can increase efficiency, reduce costs, 
 and deliver smarter solutions to its customers.
 
----
-
-## 📸 Screenshots
-
-### GitHub Repository
 
 
-![GitHub Repo](screenshots/github-repo.png)
-
-
-
-### Google Colab Setup
-
-
-![Google Colab](screenshots/google-colab.png)
-
-
-
----
-
-*Submitted by: Jawad Ahmed | CoreTech AI Engineering Internship*
+*Submitted by: Jawad Ahmed
